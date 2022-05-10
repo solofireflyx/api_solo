@@ -7,4 +7,4 @@ how to use my new api app web?
 do not copy any files add files
 -
 
-- if you copy 
+- if you copy you can get banned
