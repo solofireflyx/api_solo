@@ -1,3 +1,4 @@
+const mySecret = process.env['config.json']
 const express = require('express');
 
 const app = express();

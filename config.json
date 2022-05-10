@@ -1,0 +1,9 @@
+{
+  "config": "TOKEN",
+  "TOKEN": "YOUR TOKEN",
+  "code": "EADDRINUSE",
+  "errno": "-98",
+  "syscall": "listen",
+  "address": "::",
+  "port": "3000"
+}
