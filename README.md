@@ -9,7 +9,7 @@ do not copy any files add files
 
 - if you copy you can get banned
 
-delet 
+delete 
 -
 
 - node_modules and .replit, replit.nix
