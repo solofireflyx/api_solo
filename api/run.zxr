@@ -1,6 +1,6 @@
 run = input('system-UI', zxr{
 (^run = ${
  get (run); void
- get solo
+ get solo: void
 }^)
 })
